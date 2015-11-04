@@ -32,8 +32,8 @@ keywords: "smith, jones, personal, jekyll, theme"
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-background-img: "../img/intro-bg.jpg"
-me-img: "/img/jetpacktocat.png"
+background-img: "http://www.theportoconcierge.com/img/slides/porto-slide.jpg"
+me-img: "https://pt.gravatar.com/userimage/31788465/91cca1522c1ca8c128e808b482529387.jpg?size=400"
 
 ##############################
 # Dynamic Text on the header #
