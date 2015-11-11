@@ -187,6 +187,16 @@ ol {
             .intro-text {
                 font-size: 25px;
             }
+            .container{
+                position: relative;
+                z-index: 10;
+            }
+            #particles-container{
+                position: absolute;
+                top: 0px;
+                left: 0px;
+                height: 100%;
+            }
         }
     }
 }
