@@ -176,13 +176,20 @@ ol {
                 position: relative;
                 z-index: 10;
             }
-            #particles-container{
-                position: absolute;
-                top: 0px;
-                left: 0px;
-                height: 100%;
-                width:100%;
-            }
+        #particles-container{
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            width:100%;
+        }
+    }
+}
+
+@media(max-width:767px) {
+    .intro-body {
+        #particles-container{
+            height:73%
+        }
     }
 }
 
@@ -197,6 +204,11 @@ ol {
 
             .intro-text {
                 font-size: 25px;
+            }
+        }
+        .container{
+            #particles-container{
+                max-height:80%
             }
         }
     }
