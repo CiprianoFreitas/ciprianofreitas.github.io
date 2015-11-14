@@ -278,6 +278,11 @@ ol {
 
 .content-section {
     padding-top: 100px;
+    .post{
+        p{
+            text-align:justify;
+        }
+    }
 }
 
 .download-section {
