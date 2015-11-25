@@ -31,7 +31,7 @@ keywords: "cipriano, freitas, devscope, software, web, developer"
 # Intro layout #
 ################
 
-black-favicon: "/img/favicon.ico"
+black-favicon: "favicon-32x32.png"
 background-img: ""
 me-img: "https://pt.gravatar.com/userimage/31788465/91cca1522c1ca8c128e808b482529387.jpg?size=400"
 
