@@ -69,7 +69,7 @@ disqus-shortname: "ciprianofreitas"
 events:
   - image: "https://pbs.twimg.com/profile_images/551071076491341824/onOSl1AJ.png"
     date: "February 2015 - Today"
-    description: "Started his career @ DevScope!"
+    description: "Started my career @ DevScope!"
 
 # First image of the Career timeline
 career-img: "/img/cipri.png"
