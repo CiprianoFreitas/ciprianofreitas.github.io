@@ -13,7 +13,7 @@ The title of this  post is a bit misleading, as in I don't agree with it at all.
 
 — That's nothing, try coming to work with 3 hours of sleep like me every day.
 
-Today I mentioned at work that I make the effort to sleep 8 hours every day. I make an habit of organizing everything in my every day to be able to get those hours of sleep, but I was met with a sense that being able to get 8 hours of sleep meant that I didn't work hard enough. I beg to differ.
+Today I mentioned to a few friends that I make the effort to sleep 8 hours every day. I make an habit of organizing everything in my every day to be able to get those hours of sleep, but I was met with a sense that being able to get 8 hours of sleep meant that I didn't work hard enough. I beg to differ.
 I have a few theories about those who manage with only 5 hours of sleep per night:
 
 **Need better organization in life** - If you sleep a few hours per night because you have to work late or because you need a few extra hours per day for your leisure that may be an indicative that you need to make a few changes in life. Try to understand if you're working a little bit too much or maybe your not managing your todo list the right way.
