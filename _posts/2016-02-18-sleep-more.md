@@ -1,11 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 "section-type": post
 category: Blog
 tags: 
   - personal
 ---
+
 
 ## If you sleep more than 6 hours per night you are weak
 The title of this  post is a bit misleading, as in I don't agree with it at all. The thing is, there seems to exist a social stigma about those who get a good night's sleep, we live a culture where people compete and brag about who sleeps less: 
