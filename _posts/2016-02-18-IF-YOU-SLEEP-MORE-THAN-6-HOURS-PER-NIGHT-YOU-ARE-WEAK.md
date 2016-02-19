@@ -7,6 +7,7 @@ tags:
   - personal
 ---
 
+
 The title of this  post is a bit misleading, as in I don't agree with it at all. The thing is, there seems to exist a social stigma about those who get a good night's sleep, we live a culture where people compete and brag about who sleeps less: 
 
 — I only slept for 5 hours today.
@@ -16,7 +17,7 @@ The title of this  post is a bit misleading, as in I don't agree with it at all.
 Today I mentioned to a few friends that I make the effort to sleep 8 hours every day. I make an habit of organizing everything in my every day to be able to get those hours of sleep, but I was met with a sense that being able to get 8 hours of sleep meant that I didn't work hard enough. I beg to differ.
 I have a few theories about those who manage with only 5 hours of sleep per night:
 
-**Need better organization in life** - If you sleep a few hours per night because you have to work late or because you need a few extra hours per day for your leisure that may be an indicative that you need to make a few changes in life. Try to understand if you're working a little bit too much or maybe your not managing your todo list the right way.
+**Need better organization in life** - If you sleep a few hours per night because you have to work late or because you need a few extra hours per day for your leisure that may be an indicative that you need to make a few changes in life. Try to understand if you're working a little bit too much or maybe you're not managing your todo list the right way.
 
 **You're not working hard enough** - Maybe you manage to get by everyday with 3 hours of sleep because you're not spending your energy during the day.
 
