@@ -6,6 +6,8 @@ category: Blog
 tags: 
   - personal
 ---
+![TEDxOporto](https://lh3.googleusercontent.com/1M3m5bJX_cKveN1QPHEWJ8pDwkJQGr18LpOGrBDLtYb6nsVgRHzxAL1-a_gC0zrpOtQf4LAYy1g8qGFMdIJLXK9JfcJEJ3ywaUoBiexUGAR_C9ta7000GgO2Sslw3ETWyQdFPFzm1exT41T34UBCFmCNfHsXRwPhiiqxOjauM3JRehLoPYCT240EFIuExl0pCo7hZHItjZ4ox_9_1gTSrUMaXdpDZvxS93OGbNawJ6TBgHpi6P_ui5b8eIguOUMokL8Z9lKKxYXyyKT0iszNzGlnNSxLMBxcUaAnGeKLQ4lZZNZKLZ-zR1nuhrEZ_vLmFrKU354XYlHlYAL0UTklF8qpfT_hR0IW6qOGwN82XE6aVXgx_NKHPFrxHR058FyVeGGtYVBR81trfG4AirTt5OW3S1ZeLFmNSAiVAPU8O_5bY_IPQXSJXTTajua2gRh8FAD2z2bENQ6OwwyenAnz4frnHvQsluUJJzsKflFK6TbdgY0U0I9pQF8z3_pRpYZ2yE2tSoiaBPwou8EFm7XA4esRBA_m_BDZOZvRZLxulbift46ttLv0p8hTXZfD-rnQGv2a_5aAl4myKzSOKZ2ptXKYv8Hsz1kp=w1177-h662-no)
+
 The concept of sugar crash talks about the fatigue that we feel after we eat tons of sugar, at first there's a spike of energy but then, out of nowhere, that spike falls abruptly into a state of tiredness.
 
 **That also happens with our motivation.**
