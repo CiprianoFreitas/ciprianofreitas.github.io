@@ -17,7 +17,7 @@ But none of that worked. After that I created a new user acoount on my machine a
 
 ### My solution
 
-Before attempting this fix unistall all the problematic apps and Edge Extensions in `Settings -> System -> Apps and features`
+Before attempting this fix uninstall all the problematic apps and Edge Extensions in `Settings -> System -> Apps and features`
 
 1. Press `Win + R`
 2. Type `regedit` and press `Enter`
