@@ -13,7 +13,7 @@ I tried all the suggestions I found online, from running `wsreset.exe` in an adm
 
         Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
-But none of that worked. After that I created a new user acoount on my machine and noticed that everything worked on that account so i thought it must be something with my main user's registry.
+But none of that worked. After that I created a new user account on my machine and noticed that everything worked on that account so i thought it must be something with my main user's registry.
 
 ### My solution
 
