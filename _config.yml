@@ -108,7 +108,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "https://pbs.twimg.com/profile_images/551071076491341824/onOSl1AJ.png"
+  - image: "/img/devscope-logo.png"
     date: "February 2015 - Today"
     description: "Started my career @ DevScope!"
 
