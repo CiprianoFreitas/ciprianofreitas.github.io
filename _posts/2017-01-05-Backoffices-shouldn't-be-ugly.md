@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+section-type: post
+category: Blog
+tags:
+  - technical
 ---
 
 Companies nowadays need tools that are specifically designed for them, for instance, their use cases, tailored to their businesses. 
