@@ -31,7 +31,7 @@ I'm currently working in a government building and have the opportunity to see, 
 
 I swear, some of these screens look like old BIOS menus. 
 
-![Old BIOS menu](http://technofiver.org/wp-content/uploads/2016/09/bios.jpg)
+![Old BIOS menu](https://upload.wikimedia.org/wikipedia/commons/0/05/Award_BIOS_setup_utility.png)
 
 ## Minimize the amount of clicks.
 
