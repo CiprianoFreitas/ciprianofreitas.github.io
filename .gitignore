@@ -1,19 +1,7 @@
-# -*- mode: gitignore; -*-
-*~
-\#*\#
-/.emacs.desktop
-/.emacs.desktop.lock
-*.elc
-auto-save-list
-tramp
-.\#*
 
-_site/
-.sass-cache/
-*.swp
-pkg/
-test/
-_deploy/*
-Rakefile
-.jekyll-metadata
-/.idea/
+# Created by https://www.gitignore.io/api/hugo
+
+### Hugo ###
+hugo.exe
+/public/
+# End of https://www.gitignore.io/api/hugo
