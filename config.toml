@@ -1,5 +1,5 @@
 theme = "cipri-theme" 
-baseurl = "http://example.org/" 
+baseurl = "/" 
 contentdir = "content" 
 layoutdir = "layouts" 
 publishdir = "public" 
