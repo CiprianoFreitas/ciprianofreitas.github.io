@@ -1,0 +1,17 @@
+theme = "cipri-theme" 
+baseurl = "http://example.org/" 
+contentdir = "content" 
+layoutdir = "layouts" 
+publishdir = "public" 
+canonifyurls = true 
+languageCode = "en-us" 
+title = "Cipriano Freitas" 
+MetaDataFormat = "toml" 
+sectionPagesMenu = "main"
+pluralizelisttitles = false
+
+[indexes] 
+    category = "categories" 
+    tag = "tags" 
+[author] 
+    name = "Cipriano Freitas" 

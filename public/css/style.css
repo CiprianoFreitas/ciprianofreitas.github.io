@@ -1,0 +1,102 @@
+body {
+  margin: 3em;
+  background: #f8f8f9;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.nav {
+  font-family: 'Zilla Slab', serif;
+  text-align: right;
+  margin-left: 50%;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.5em;
+  width: 50%;
+}
+
+.nav a {
+  text-decoration: none;
+  margin-left: 0.5em;
+  color: #545454;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+
+.hero-container {
+  background-color: white;
+  padding: 3em;
+  height: 50vh;
+  margin-bottom: 2em;
+  position: relative;
+}
+
+.hero-container::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-top: 80px solid #f8f8f9;
+  border-right: 80px solid white;
+  width: 0;
+}
+
+.hero-content {
+  position: absolute;
+  padding: 3em;
+}
+
+.hero-container--image {
+  width: 100%;
+}
+
+.nav-item {
+  display: inline-block;
+  position: relative;
+  padding-bottom: 3px;
+}
+
+.nav-item:after {
+  content: '';
+  display: block;
+  margin: auto;
+  height: 2px;
+  width: 0px;
+  background: transparent;
+  transition: width .5s ease, background-color .5s ease;
+}
+
+.nav-item:hover:after, .nav-item.active:after {
+  width: 100%;
+  background: #545454;
+}
+
+.site-content {
+  background-color: white;
+  padding: 3em;
+}
+
+.title {
+  font-family: 'Zilla Slab', serif;
+  font-size: 3em;
+  background-color: #00b9e7;
+  color: white;
+  padding: 0 .2em;
+  display: inline-block;
+}
+
+@keyframes blinker {
+  to {
+    visibility: hidden;
+  }
+}
+
+.cursor {
+  animation: blinker steps(2, start) 0.6s infinite alternate;
+}
+
+.title:after {
+  content: ' |';
+  animation: blinker steps(2, start) 0.6s infinite alternate;
+}
+ 
+
+ /*# sourceMappingURL= style.css.map */
