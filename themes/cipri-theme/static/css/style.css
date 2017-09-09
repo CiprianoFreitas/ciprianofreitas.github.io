@@ -23,12 +23,11 @@ body {
 .hero-container {
   background-image: url(../images/emoji-bgs/emoji-bg-original.png);
   background-repeat: repeat;
-  background-size: 10%;
   padding: 3em;
   height: 70vh;
   margin-bottom: 2em;
   position: relative;
-  animation: slide 10s linear infinite;
+  animation: slide 30s linear infinite;
 }
 
 .hero-container::before {
@@ -51,7 +50,7 @@ body {
     background-position: 0 0;
   }
   to {
-    background-position: -221px 0;
+    background-position: -100% 0;
   }
 }
 
@@ -83,6 +82,20 @@ body {
 .site-content {
   background-color: white;
   padding: 3em;
+  position: relative;
+}
+
+.hero-quote {
+  color: darkblue;
+  font-size: 4em;
+  max-width: 32vw;
+  padding: 0;
+  margin: 0;
+  position: relative;
+  text-align: right;
+  margin-left: 66%;
+  margin-bottom: 2em;
+  margin-top: 1em;
 }
 
 .title {
