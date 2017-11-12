@@ -30,7 +30,7 @@ author: "Cipriano Freitas"
 lang: "en"
 title: "{ Cipriano Freitas }"
 description: "Blog and website of Cipriano Freitas, software developer, culture critic and opinion giver."
-keywords: "cipriano, freitas, devscope, software, web, developer"
+keywords: "cipriano, freitas, devscope, booking.com, booking, software, web, developer"
 favicon: "/img/favicon.ico"
 
 ################
@@ -109,8 +109,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/devscope-logo.png"
-    date: "February 2015 - Today"
+    date: "February 2015 - August 2017"
     description: "Started my career @ DevScope!"
+  - image: "/img/b-logo.jpg"
+    date: "October 2017 - Today"
+    description: "Helping people find great experiences @ Booking.com!"
 
 # First image of the Timeline
 timeline-img: "/img/cipri.png"
@@ -119,7 +122,7 @@ timeline-img: "/img/cipri.png"
 # Contact #
 ###########
 
-email: "cipriano.freitas@devscope.net"
+email: "cipriano.freitas@outlook.net"
 
 ################
 # Author Blurb #
