@@ -108,12 +108,12 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/devscope-logo.png"
-    date: "February 2015 - August 2017"
-    description: "Started my career @ DevScope!"
   - image: "/img/b-logo.jpg"
     date: "October 2017 - Today"
     description: "Helping people find great experiences @ Booking.com!"
+  - image: "/img/devscope-logo.png"
+    date: "February 2015 - August 2017"
+    description: "Started my career @ DevScope!"
 
 # First image of the Timeline
 timeline-img: "/img/cipri.png"
