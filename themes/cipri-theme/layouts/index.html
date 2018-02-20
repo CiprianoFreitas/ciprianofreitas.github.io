@@ -1,20 +1,46 @@
 {{ partial "header.html" . }}
-<div class="hero-quote">
-  "Lorem ipsum dolor sit amet."
-</div>
-<div class="site-content">
-    <h1>posts</h1>
-    {{ range first 10 .Data.Pages }}
-      {{ if eq .Type "post"}}
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+
+<h1 class="header-item header-item--large header-item--no-margin header-item--align_right">
+  Cipri.
+</h1>
+<h2 class="header-item header-item--darker header-item--no-margin header-item--align_right">
+  Front End Developer
+</h2>
+<p class="about">
+  I’m the kind of person who wants to achieve three stars in every level of Angry Birds. In other words, I’m always seeking to come up with the best solution to any problem.
+  I love the intersection of design and usability to create compelling products that people love to use.
+  Currently I’m at Booking.com working to help people find the best experiences in their travels.
+</p>
+
+<div class="grey-bg">
+  <h2 class="header-item">Blog</h2>
+  <div class="posts-container">
+    {{ range first 10 .Data.Pages }} 
+      {{ if eq .Type "posts"}}
+        <div class="post-item">
+          <h2 class="post-item__title">
+            <!-- <a href="{{ .Permalink }}">{{ .Title }}</a> -->
+            {{ .Title }}
+          </h2>
+          <p class="post-item__summary">{{ .Summary }}</p>
+          <a href="{{ .Permalink }}" class="post-item__read-more">Read</a>
+        </div>
       {{ end }}
+    {{ end }}    {{ range first 10 .Data.Pages }} 
+    {{ if eq .Type "posts"}}
+      <div class="post-item">
+        <h2 class="post-item__title">
+          <!-- <a href="{{ .Permalink }}">{{ .Title }}</a> -->
+          {{ .Title }}
+        </h2>
+        <p class="post-item__summary">{{ .Summary }}</p>
+        <a href="{{ .Permalink }}" class="post-item__read-more">Read</a>
+      </div>
     {{ end }}
-  
-    <h1>pages</h1>
-    {{ range .Data.Pages }}
-      {{ if eq .Type "page" }}
-        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      {{ end }}
-    {{ end }}
+  {{ end }}
+  </div>
 </div>
+
+<h2 class="header-item">Timeline</h2>
+
 {{ partial "footer.html" . }}
