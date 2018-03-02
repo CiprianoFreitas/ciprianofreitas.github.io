@@ -26,18 +26,7 @@
           <a href="{{ .Permalink }}" class="post-item__read-more">Read</a>
         </div>
       {{ end }}
-    {{ end }}    {{ range first 10 .Data.Pages }} 
-    {{ if eq .Type "posts"}}
-      <div class="post-item">
-        <h2 class="post-item__title">
-          <!-- <a href="{{ .Permalink }}">{{ .Title }}</a> -->
-          {{ .Title }}
-        </h2>
-        <p class="post-item__summary">{{ .Summary }}</p>
-        <a href="{{ .Permalink }}" class="post-item__read-more">Read</a>
-      </div>
-    {{ end }}
-  {{ end }}
+    {{ end }}    
   </div>
 </div>
 
