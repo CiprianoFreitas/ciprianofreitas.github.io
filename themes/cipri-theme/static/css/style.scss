@@ -37,7 +37,7 @@ body {
 }
 
 .posts-container {
-    background-color: white;
+    background-color: #041C48;
     margin: 0 -5vw;
     padding: 2vw 4vw;
     display: grid;
@@ -45,23 +45,43 @@ body {
 }
 
 .post-item {
-    padding: 1vw;
-    background-color: white;
+    min-width:0; //firefox fix
+    padding: 2vw;
+    margin:-1vw;
+    background-color: #041C48;
     transition: all .2s ease-out;
-    
+    transform: rotate3d(0, 0, 1, -4deg);
+
     &:hover {
         transform: scale(1.02);
         box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
+        z-index: 99;
     }
 
     &__title {
-        color: darkslategrey;
+        color: #fbf8fd;
         margin: 0;
         padding: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
     }
 
     &__summary {
-        color: black;
+        color: #fbf8fd;
+        position: relative;
+        height: 15em;
+        overflow: hidden;
+
+        // &::after {
+        //     content: '';
+        //     width: 100%;
+        //     height: 100%;
+        //     position: absolute;
+        //     left: 0;
+        //     bottom: 0;
+        //     background: linear-gradient(transparent 0, white);
+        // }
     }
 
     &__read-more {
